@@ -2,23 +2,14 @@
 SPECIFICATION
 
 Name: Arbitra
-
 Symbol: ATC
-
 Algo: X11
-
 Total Supply: 350000000 (350M)
-
 Pure - POSS
-
 Block size: 2MB
-
 Block time: 3 minutes
-
 Coin base maturity: 30 blocks
-
 Transaction: 5 blocks
-
 Fee: 0.00001
 
 
@@ -26,10 +17,15 @@ Fee: 0.00001
 POS specs:
 
 from block 2-86400 = 100% /per year
+
 from block 86401-172800 = 80% /per year
+
 from block 172801-259200 = 60% /per year
+
 from block 259201-345600 = 40% /per year
+
 from block 345601-432000 = 20% /per year
+
 from block 432001-~~~ = 10% /per year
 
 
