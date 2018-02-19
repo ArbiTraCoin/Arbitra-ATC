@@ -2,14 +2,23 @@
 SPECIFICATION
 
 Name: Arbitra
+
 Symbol: ATC
+
 Algo: X11
+
 Total Supply: 350000000 (350M)
+
 Pure - POSS
+
 Block size: 2MB
+
 Block time: 3 minutes
+
 Coin base maturity: 30 blocks
+
 Transaction: 5 blocks
+
 Fee: 0.00001
 
 
